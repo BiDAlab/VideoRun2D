@@ -2,7 +2,7 @@
 
 ***
 # About
-We present VideoRun2D, a new markerless biomechanic sprint analysis system based on deep learning models. This system was initially described technically and scientifically in this [arXiv technical report](https://arxiv.org/abs/2409.10175) and published after peer review at [IAPR](https://iapr.org/)  Intl. Conf. on Pattern Recognition (ICPR) 2024. 
+We present VideoRun2D, a new markerless biomechanic sprint analysis system based on deep learning models. This system was initially described technically and scientifically in this [arXiv technical report](https://arxiv.org/abs/2409.10175) and published after peer review at the [IAPR](https://iapr.org/)  Intl. Conf. on Pattern Recognition (ICPR), Kolkata, India, December 2024. (2<sup>nd</sup> Workshop on Facial and Body Expressions, FBE) [[PDF](https://arxiv.org/abs/2409.10175)].
 
 
 
@@ -40,11 +40,11 @@ For the body parts covered by other segments, the experts were instructed to mar
 Under construction
 
 
-# References
+# Publications
 
-+ [1]  G. Garrido-Lopez, L.F. Gomez, J. Fierrez, A. Morales, R. Tolosana, J. Rueda, and E. Navarro, "VideoRun2D: Cost-Effective Markerless Motion Capture for Sprint Biomechanics", arXiv. [[pdf](https://arxiv.org/pdf/2409.10175)]
++ G. Garrido-Lopez, L.F. Gomez, J. Fierrez, A. Morales, R. Tolosana, J. Rueda, and E. Navarro, "VideoRun2D: Cost-Effective Markerless Motion Capture for Sprint Biomechanics", in Proc. IAPR Intl. Conf. of Pattern Recognition Worshops (ICPRw), Kolkata, India, December 2024. [[PDF](https://arxiv.org/pdf/2409.10175)]
 
 # Contact:
 
-For more information contact Prof. Julian Fierrez: julian.fierrez@uam.es
+For more information contact Profs. Julian Fierrez and Enrique Navarro: julian.fierrez@uam.es and enrique.navarro@upm.es
 
