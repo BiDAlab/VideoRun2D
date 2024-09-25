@@ -2,7 +2,7 @@
 
 ***
 # About
-We present VideoRun2D, a new markerless biomechanic sprint analysis system based on deep learning models. This system was initially described technically and scientifically in this [arXiv technical report](https://arxiv.org/abs/2409.10175) and published after peer review at the [IAPR](https://iapr.org/)  Intl. Conf. on Pattern Recognition (ICPR), Kolkata, India, December 2024. (2<sup>nd</sup> Workshop on Facial and Body Expressions, FBE) [[PDF](https://arxiv.org/abs/2409.10175)].
+We present VideoRun2D, a new markerless biomechanic sprint analysis system based on deep learning models. This system was initially described technically and scientifically in this [arXiv technical report](https://arxiv.org/abs/2409.10175) and published after peer review at the [IAPR](https://iapr.org/)  Intl. Conf. on Pattern Recognition ([ICPR](https://icpr2024.org/)), Kolkata, India, December 2024. (2<sup>nd</sup> Workshop on Facial and Body Expressions, [FBE](https://sites.google.com/unifi.it/fbe2024/)) [[PDF](https://arxiv.org/abs/2409.10175)].
 
 
 
