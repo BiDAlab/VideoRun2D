@@ -10,11 +10,12 @@ Our proposed VideoRun2D performs markerless body tracking and estimates multiple
 
 
 
-https://github.com/user-attachments/assets/6073b6d5-8905-451d-b9da-5a1031fa604c
+https://github.com/user-attachments/assets/7a8e645f-8b3d-428f-ae4a-6c898e032751
 
 
 
-https://github.com/user-attachments/assets/3d526f81-b182-47d2-982c-ee193845b8b3
+
+https://github.com/user-attachments/assets/a5624e5b-c493-4238-bb15-3a77215cb3a2
 
 
 
